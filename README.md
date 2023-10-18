@@ -1,5 +1,20 @@
 # Introduction to Computational Methods for the Brain Sciences
 
+  Department of Brain Sciences </br>
+  Imperial College London <br/>
+
+**Contributors:**
+<br/>
+<br/>
+
+|<span style="font-weight:normal"><img src="Figures/Dragos.jpeg" width="120" height="120"><br/>[Dragos Gruia](https://www.imperial.ac.uk/people/dragos-cristian.gruia19)</span>  	|<img src="Figures/valentina.png" width="120" height="120"><br/>[Valentina Giunchiglia](https://www.imperial.ac.uk/people/v.giunchiglia20)   |
+|---	|---	|
+
+<br/>
+<br/>
+
+## Introduction
+
 **Module 3 from the MSc in Translational Neuroscience** will introduce you to the most relevant computational methods for the Brain Sciences. It will be divided into 8 days, where each day handles a different thematic and methodology. Each day will consist of workshops and lectures, that start in the morning and end at 5pm. 
       
       Apart from day 1, all the other days will be characterised by a final CHALLENGE. 
@@ -18,12 +33,19 @@ The general format of each day will be the following:
 
 **The data for all workshops can be downloaded [here](https://imperiallondon-my.sharepoint.com/:f:/g/personal/vg816_ic_ac_uk/EhHQbb-ruvFNqZm1a_5XmY8BfzRxYfLnHRGCFW5wq222Kg).**
 
+## Lab experiments
+
+To run the lab experiments, you can use Anaconda, [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), or Google CoLab. 
+For more information on how to use Google Colab with GitHub, see this [link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us).<br/><br/> We suggest you to use Jupyter Notebook, and move to Google Colab only if there are significant issues (that cannot be addressed easily) while using Jupyter. For more information on how to use Google Colab with GitHub, see this link.
+
+## Schedule
+
 The schedule of the Module is presented in the following table.
 
-| Date | Topic | Morning Schedule | Afternoon Schedule| 
-| :---: | :---: |:--- |:--- |
-| 10th November | Introduction to Programming | <ul><li>*OPTION 1*: Review of primer exercises + Q&A on lectures and exercises </li><li>*OPTION 2*: Advanced visualization using Seaborn or cognitive data anlysis exercise</li></ul> | Coding marathon: 8 exercises, 30 minutes each |  
-| 11th November | Big data analysis: COVID and Cognition| <ul><li>*LECTURE:* Data cleaning and processing</li><li>*GUIDED WORKSHOP*: big data analysis of COVID and Cognition</li></ul> |  <ul><li>*CHALLENGE*: big data analysis of Dementia and Cognition </li><li> *LECTURE:* How to write a report?</li></ul> | 
+| Date | Topic | Morning Schedule | Afternoon Schedule| Link to Lecture |
+| :---: | :---: |:--- |:--- |:---|
+| 10th November | Introduction to Programming | <ul><li>*OPTION 1*: Review of primer exercises + Q&A on lectures and exercises </li><li>*OPTION 2*: Advanced visualization using Seaborn or cognitive data anlysis exercise</li></ul> | Coding exercises |  [Introduction to Python](./01-%20Introduction%20to%20Python/) &nbsp;&nbsp; [![Seaborn](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QveSbX-o-qKDM5D1d29N0ojFY_2iWnLD?usp=sharing) &nbsp; | 
+| 11th November | Big data analysis: COVID and Cognition| <ul><li>*LECTURE:* Data cleaning and processing</li><li>*GUIDED WORKSHOP*: big data analysis of COVID and Cognition</li></ul> |  <ul><li>*CHALLENGE*: big data analysis of Dementia and Cognition </li><li> *LECTURE:* How to write a report?</li></ul> | | 
 | 14th November |  Cognition and self harm  | <ul><li>*LECTURE:* Cognitive differences in self harm </li><li>Lived experience interview </li><li>*GUIDED WORKSHOP*: cognition and self harm</li></ul> | *CHALLENGE*: Cognition and eating disorders | 
 | 15th November |  Introduction to fMRI and sMRI analysis | *GUIDED WORKSHOP*: analysis of Parkinson's fMRI data | *CHALLENGE*: analysis of OCD fMRI data| 
 | 16th November |  fMRI Graph theory and connectivity | *GUIDED WORKSHOP*: introduction to fMRI graph analysis | *CHALLENGE*: brain connectivity changes in the psychedelic state| 
