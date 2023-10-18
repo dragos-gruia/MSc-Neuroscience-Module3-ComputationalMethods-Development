@@ -34,23 +34,17 @@ Valentina Giunchiglia: <a href = "mailto: v.giunchiglia20@imperial.ac.uk">v.giun
       In the afternoon of each day, you will have the opportunity to start working on 
       the challenge of the day, and ask questions to the TAs in case you have any doubts or problems. 
 
-The general format of each day will be the following: 
-
-1. **Morning**:
-    * Introductory lecture 
-    * Guided workshop
-2. **Afternoon**:
-    * Start of potentially assessed challenge (with help of TAs)
-
-**The data for all workshops can be downloaded [here](https://imperiallondon-my.sharepoint.com/:f:/g/personal/vg816_ic_ac_uk/EhHQbb-ruvFNqZm1a_5XmY8BfzRxYfLnHRGCFW5wq222Kg).**
-
 ## Lab experiments
 
 To run the lab experiments, you can use Anaconda, [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), or Google CoLab. 
 For more information on how to use Google Colab with GitHub, see this [link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us).<br/><br/> We suggest you to use Jupyter Notebook, and move to Google Colab only if there are significant issues (that cannot be addressed easily) while using Jupyter. For more information on how to use Google Colab with GitHub, see this link.
 
-## Schedule
+## Data
 
+**The data for all workshops can be downloaded [here](https://imperiallondon-my.sharepoint.com/:f:/g/personal/vg816_ic_ac_uk/EhHQbb-ruvFNqZm1a_5XmY8BfzRxYfLnHRGCFW5wq222Kg).**
+
+## Schedule
+      
 The schedule of the Module is presented in the following table.
 
 | Date | Topic | Morning Schedule | Afternoon Schedule| Link to Lecture |
