@@ -5,13 +5,18 @@
 
 **Contributors:**
 <br/>
-<br/>
 
-|<span style="font-weight:normal"><img src="Figures/Dragos.jpeg" width="120" height="120"><br/>[Dragos Gruia](https://www.imperial.ac.uk/people/dragos-cristian.gruia19)</span>  	|<img src="Figures/valentina.png" width="120" height="120"><br/>[Valentina Giunchiglia](https://www.imperial.ac.uk/people/v.giunchiglia20)   |
+|<span style="font-weight:normal"><img src="Figures/Dragos.jpeg" width="120" height="120"><br/>[Dragos Gruia](https://www.imperial.ac.uk/people/dragos-cristian.gruia19)</span>  	|<img src="Figures/valentina.png" width="130" height="120"><br/>[Valentina Giunchiglia](https://www.imperial.ac.uk/people/v.giunchiglia20)   |
 |---	|---	|
 
 <br/>
+
+**Lead TAs contacts:**
 <br/>
+<br/>
+Dragos Gruia: <a href = "mailto: dragos-cristian.gruia19@imperial.ac.uk ">dragos-cristian.gruia19@imperial.ac.uk </a>
+<br/>
+Valentina Giunchiglia: <a href = "mailto: v.giunchiglia20@imperial.ac.uk">v.giunchiglia20@imperial.ac.uk</a>
 
 ## Introduction
 
@@ -44,11 +49,11 @@ The schedule of the Module is presented in the following table.
 
 | Date | Topic | Morning Schedule | Afternoon Schedule| Link to Lecture |
 | :---: | :---: |:--- |:--- |:---|
-| 10th November | Introduction to Programming | <ul><li>*OPTION 1*: Review of primer exercises + Q&A on lectures and exercises </li><li>*OPTION 2*: Advanced visualization using Seaborn or cognitive data anlysis exercise</li></ul> | Coding exercises |  [Introduction to Python](./01-%20Introduction%20to%20Python/) &nbsp;&nbsp; [![Seaborn](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QveSbX-o-qKDM5D1d29N0ojFY_2iWnLD?usp=sharing) &nbsp; | 
-| 11th November | Big data analysis: COVID and Cognition| <ul><li>*LECTURE:* Data cleaning and processing</li><li>*GUIDED WORKSHOP*: big data analysis of COVID and Cognition</li></ul> |  <ul><li>*CHALLENGE*: big data analysis of Dementia and Cognition </li><li> *LECTURE:* How to write a report?</li></ul> | | 
-| 14th November |  Cognition and self harm  | <ul><li>*LECTURE:* Cognitive differences in self harm </li><li>Lived experience interview </li><li>*GUIDED WORKSHOP*: cognition and self harm</li></ul> | *CHALLENGE*: Cognition and eating disorders | 
-| 15th November |  Introduction to fMRI and sMRI analysis | *GUIDED WORKSHOP*: analysis of Parkinson's fMRI data | *CHALLENGE*: analysis of OCD fMRI data| 
-| 16th November |  fMRI Graph theory and connectivity | *GUIDED WORKSHOP*: introduction to fMRI graph analysis | *CHALLENGE*: brain connectivity changes in the psychedelic state| 
+| 9th November | Introduction to Programming | <ul><li>*OPTION 1*: Review of primer exercises + Q&A on lectures and exercises </li><li>*OPTION 2*: Advanced visualization using Seaborn or cognitive data anlysis exercise</li></ul> | Coding Exercises |  [Introduction to Python](./01-%20Introduction%20to%20Python/) &nbsp;&nbsp; <br> Seaborn: [![Seaborn](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QveSbX-o-qKDM5D1d29N0ojFY_2iWnLD?usp=sharing) &nbsp; <br> Coding Exercises: [![Coding](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1QveSbX-o-qKDM5D1d29N0ojFY_2iWnLD?usp=sharing](https://colab.research.google.com/drive/1pZQUcWsetD4BmRBNhZy_5rwFDZrZFp7h?usp=sharing)) &nbsp;| 
+| 10th November | Big data analysis: COVID and Cognition| <ul><li>*LECTURE:* Data cleaning and processing</li><li>*GUIDED WORKSHOP*: big data analysis of COVID and Cognition</li></ul> |  <ul><li>*CHALLENGE*: big data analysis of Dementia and Cognition </li><li> *LECTURE:* How to write a report?</li></ul> | [Covid and Cognition](./Day2/) &nbsp;&nbsp; <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([COLAB](https://colab.research.google.com/drive/1wNXxEcBWm9M4-ENkCD4UVFpFiskS6sVY?usp=sharing)) &nbsp; <br>| 
+| 13th November |  Cognition and self harm  | <ul><li>*LECTURE:* Cognitive differences in self harm </li><li>Lived experience interview </li><li>*GUIDED WORKSHOP*: cognition and self harm</li></ul> | *CHALLENGE*: Cognition and eating disorders |  [Cognition and self-harm](./Day3/) &nbsp;&nbsp; <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1QveSbX-o-qKDM5D1d29N0ojFY_2iWnLD?usp=sharing](https://colab.research.google.com/drive/1wNXxEcBWm9M4-ENkCD4UVFpFiskS6sVY?usp=sharing)) &nbsp; <br>| 
+| 14th November |  Introduction to fMRI and sMRI analysis | *GUIDED WORKSHOP*: analysis of Parkinson's fMRI data | *CHALLENGE*: analysis of OCD fMRI data| 
+| 15th November |  fMRI Graph theory and connectivity | *GUIDED WORKSHOP*: introduction to fMRI graph analysis | *CHALLENGE*: brain connectivity changes in the psychedelic state| 
 | 21st November |  Introduction to Machine learning | <ul><li>*LECTURE:* Machine learning </li><li>*GUIDED WORKSHOP*: Alzheimer's prediction using machine learning </li></ul> | *CHALLENGE*: prediction of Alzheimer's progression| 
 | 22nd November |  Substance use and substance addiction  | <ul><li>*LECTURE:* Substance use and substance addiction </li><li>*LECTURE*: NLP and topic modelling</li><li>*GUIDED WORKSHOP*: Analysis of drug use increase during the pandemic using NLP </li></ul> | *CHALLENGE*: Analysis of drug use decrease during the pandemic using NLP | 
 | 23rd November |  Principles of Neuromodeling | <ul><li>*LECTURE:* Neuromodelling introduction </li><li>*GUIDED WORKSHOP*: Neuromodelling analysis </li></ul> | *CHALLENGE*: Neuromodelling analysis | 
