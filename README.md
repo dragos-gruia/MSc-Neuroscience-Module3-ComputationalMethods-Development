@@ -11,6 +11,12 @@
 
 <br/>
 
+**Module director contact**
+<br/>
+<br/>
+Adam Hampshire: <a href = "mailto: a.hampshire@imperial.ac.uk">a.hampshire@imperial.ac.uk</a>
+<br/>
+<br/>
 **Lead TAs contacts:**
 <br/>
 <br/>
