@@ -37,7 +37,7 @@ Valentina Giunchiglia: <a href = "mailto: v.giunchiglia20@imperial.ac.uk">v.giun
 ## Lab experiments
 
 To run the lab experiments, you can use Anaconda, [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), or Google CoLab. 
-For more information on how to use Google Colab with GitHub, see this [link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us).<br/><br/> We suggest you to use Jupyter Notebook, and move to Google Colab only if there are significant issues (that cannot be addressed easily) while using Jupyter. For more information on how to use Google Colab with GitHub, see this link.
+For more information on how to use Google Colab with GitHub, see this [link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us).<br/><br/> We suggest you to use Jupyter Notebook, and move to Google Colab only if there are significant issues (that cannot be addressed easily) while using Jupyter. 
 
 ## Data
 
